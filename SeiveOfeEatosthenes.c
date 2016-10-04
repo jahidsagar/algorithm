@@ -57,5 +57,5 @@ void main()
     cout<<"enter the no\n";
     int userno;
     cin>>userno; //get prime no
-    getprime(userno); //pushing the value in algorithm
+    getprime(userno); //pushing the value in algorithm 
 }
