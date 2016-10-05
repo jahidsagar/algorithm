@@ -7,8 +7,10 @@ DEPARTMENT OF CSTE
 ->REQUIREMENTS:
 for c program use header
 #include <stdio.h>
-#include <string.h>
+#include <math.h>
 use array instead of vector
+
+CATEGORY :- NUMBER THEORY
 */
 //no of divisors without sorting
 // v.1.0.0
