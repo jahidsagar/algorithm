@@ -12,6 +12,8 @@ for c program use header
 here using "memset" under "string.h"
 memset declaration
 memset(str_name,fill_value,how_long_fill);
+
+CATEGORY :- NUMBER THEORY
 */
 
 
